@@ -3,3 +3,11 @@
     <addon id="script.module.websockets"/>
     <addon id="service.websockets.echo"/>
 </addons>
+<extension point="xbmc.addon.repository" name="Asyncio Testing Repository">
+  <dir minversion="19.0.0">
+    <info compressed="true">https://github.com/x-stride/x-stride-asyncio/blob/main/addon.xml.gz</info>
+    <checksum>https://github.com/x-stride/x-stride-asyncio/blob/main/addons.xml.gz.md5</checksum>
+    <datadir zip="true">https://github.com/x-stride/x-stride-asyncio/tree/main</datadir>
+    <hashes>false</hashes>
+  </dir>
+</extension>
