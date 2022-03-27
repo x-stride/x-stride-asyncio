@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+    <addon id="script.module.websockets"/>
+    <addon id="service.websockets.echo"/>
+</addons>
