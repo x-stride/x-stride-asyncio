@@ -37,7 +37,7 @@
 <dir minversion="19.0.0">
     <info compressed="true">https://github.com/x-stride/x-stride-asyncio/blob/main/addon.xml.gz</info>
     <checksum>https://github.com/x-stride/x-stride-asyncio/blob/main/addons.xml.gz.md5</checksum>
-    <datadir zip="true">https://github.com/x-stride/x-stride-asyncio/tree/main</datadir>
+    <datadir zip="true">https://github.com/x-stride/x-stride-asyncio/tree/main/addons</datadir>
     <hashes>false</hashes>
 </dir>
 </extension>
